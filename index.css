@@ -1,0 +1,9 @@
+.h1{
+    color: rgb(170, 170, 210);
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    align-items: center;
+
+}
